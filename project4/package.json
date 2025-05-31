@@ -11,6 +11,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.8",
+    "tailwindcss": "^4.1.8",
     "vue": "^3.5.13"
   },
   "devDependencies": {
@@ -23,8 +25,12 @@
     "globals": "^16.0.0",
     "postcss": "^8.5.4",
     "prettier": "3.5.3",
-    "tailwindcss": "^4.1.8",
     "vite": "^6.2.4",
     "vite-plugin-vue-devtools": "^7.7.2"
-  }
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "eslint.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
